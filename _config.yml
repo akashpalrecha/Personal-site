@@ -1,6 +1,6 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Akash Palrecha
+bio: I like deep learning. I also play drums
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -35,7 +35,7 @@ disqus:
 
 # if you don't have any of social below, comment the line
 facebook: myfacebook
-twitter: mytwitter
+twitter: twitter.com/akashpalrecha98
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
@@ -48,18 +48,18 @@ github: mygithub
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Akash Palrecha
+        bio: I like deep learning. I also play drums
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: akashpalrecha98
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
@@ -118,3 +118,5 @@ compress_html:
         - stage
 
 exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
+
+encoding: utf-8
